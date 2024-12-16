@@ -1,0 +1,64 @@
+body{
+	font-family: Arial, sans serif;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+	color: #ffffff;
+}
+header{
+	background-color: #B80F0A;
+	text-align: center;
+	padding: 20px;
+}
+h1 {
+	margin: 0;
+	color: #ffffff;
+	font-size: 2.5em;
+}
+main{
+	padding: 20px;
+}
+.wiersz{
+	font-style: italic;
+	line-height: 1.8;
+	background-color: #B80F0A;
+	border-left: 5px solid #a23333;
+	padding: 10px 20px;
+	margin: 20px 0;
+	border-radius: 5px;
+	color: #000000;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+	background-color: #B80F0A;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+table th, table td{
+	border: 1px solid #ffffff;
+	padding: 10px;
+	text-align: left;
+}
+table th{
+	background-color: #B80F0A;
+	color: #ffffff;
+}
+ul, ol{
+	margin: 0;
+	padding: 10px 20px;
+}
+footer{
+	background-color: #B80F0A;
+	color: #000000;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 0.9em;
+}
+footer a{
+	color: #ffffff;
+	text-decoration: none;
+}
+footer a:hover{
+	text-decoration: underline;
+}
